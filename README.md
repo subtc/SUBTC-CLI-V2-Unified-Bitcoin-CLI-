@@ -2,10 +2,7 @@
 
 One CLI to Rule Both Mainnet & Testnet
 
-https://img.shields.io/badge/version-2.0.0-blue.svg
-https://img.shields.io/badge/go-1.21+-00ADD8.svg
-https://img.shields.io/badge/license-Apache%202.0-green.svg
-https://subtc.net/static/card.jpg
+
 Download: https://subtc.net/post/subtc-cli-v2-unified-bitcoin-cli
 
 ---
